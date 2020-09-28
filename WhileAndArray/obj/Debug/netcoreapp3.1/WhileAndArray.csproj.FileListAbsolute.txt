@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.exe
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.deps.json
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.dll
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\bin\Debug\netcoreapp3.1\WhileAndArray.pdb
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.dll
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.pdb
+C:\Users\julia.voronetskaja\source\repos\WhileAndArray\WhileAndArray\obj\Debug\netcoreapp3.1\WhileAndArray.genruntimeconfig.cache
